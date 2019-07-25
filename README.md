@@ -1,6 +1,6 @@
-# WorldBillionaires
-Submission Kelas Membuat Aplikasi Android Untuk Pemula\n
-Extract File kemudian Import Pada Android Studio.\n
+# WorldBillionaires <br>
+Submission Kelas Membuat Aplikasi Android Untuk Pemula <br>
+Extract File kemudian Import Pada Android Studio.<br>
 Semoga Bisa Bermanfaat
 
 Salam, <b>RIFKI</b>
